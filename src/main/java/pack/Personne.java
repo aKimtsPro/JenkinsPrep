@@ -20,7 +20,6 @@ public class Personne {
 
     public void vieillir(){
         age++;
-        System.out.println("you aged");
     }
 
 }
